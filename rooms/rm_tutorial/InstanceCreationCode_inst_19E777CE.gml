@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"\nPART 6: Items","Potions will give special temporary powers.","The blue one gives fast shooting and bonus arrows, the green one improves sight.","You will discover more on the go.");

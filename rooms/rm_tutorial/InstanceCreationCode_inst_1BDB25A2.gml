@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"PART 5: Health and\nenemy detection","Your health is the\nclassic red bar.\nIt drains, you lose.","Each hit takes one unit of health.","Enemies will try to attack you on sight- approach slowly, don't get detected.","Rotate the camera to your advantage.");

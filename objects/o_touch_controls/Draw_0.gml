@@ -1,0 +1,1 @@
+//empty draw event, object is drawn as GUI

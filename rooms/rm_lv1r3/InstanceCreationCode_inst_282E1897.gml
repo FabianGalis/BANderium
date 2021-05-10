@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"Sometimes, exploration is the solution.");

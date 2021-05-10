@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"\nOwO","\n...","\n...\nUwU","\nIt seems you found a secret sign!","Message me 'lol ce porcarie de joc' and you'll receive 1% discount on the final product!","\n\n\nhehe");

@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"\nPART 4: Combat","Aim your bow by holding\nthe right click and shoot with the left one.","Arrows are limited, but they\ncan be refilled by clicking\nthe barrel next to this sign.","Look out for arrow barrels,\nbut more importantly, look\nout for the enemies up front!");

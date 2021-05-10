@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"\nPART 7: Changing areas","Make progress by finding the exit from each zone.","Keep walking on the path to move from zone to zone.","Some of them greet you with a ribbon and are special zones that save the game.","The next one is up ahead and it is a rough glimpse on how would a level look like.");

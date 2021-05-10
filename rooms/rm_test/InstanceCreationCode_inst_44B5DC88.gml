@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"WELCOME to the secret test room!","Ye, this is just a test sign,\nwhadya expect?","Go do some work for sesiune.","pls");

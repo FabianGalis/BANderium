@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"\nDEMO END","\nThank you for playing!","Expect to see this game for sale, or for free, just for you, fellow beta tester ;)");

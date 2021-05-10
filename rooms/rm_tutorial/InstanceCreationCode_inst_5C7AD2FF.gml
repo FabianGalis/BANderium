@@ -1,0 +1,2 @@
+rotation=180;
+ds_list_add(currenttext,"\nPART 1: Camera controls","Use the scroll wheel to\nrotate the camera.\n(works while reading signs)","To zoom in and out,\nuse ctrl and space.","Test the camera movements\n by following the path\nthrough the forest.");

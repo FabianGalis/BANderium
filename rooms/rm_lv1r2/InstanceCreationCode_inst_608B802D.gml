@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"If you shoot through fire, your arrows will have double damage.");

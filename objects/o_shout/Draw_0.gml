@@ -1,0 +1,1 @@
+scr_draw_sprite_3d(c_white);

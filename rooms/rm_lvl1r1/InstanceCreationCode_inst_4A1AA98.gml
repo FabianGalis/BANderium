@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"Tip: Enemies can be taken by surprise if you remain undetected.","Instead of going left, go right and shoot from behind the trees for an upper hand.","Always look for the optimal approach.");

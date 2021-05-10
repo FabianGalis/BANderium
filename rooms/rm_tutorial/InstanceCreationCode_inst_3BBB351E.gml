@@ -1,0 +1,2 @@
+rotation=135;
+ds_list_add(currenttext,"\nPART 2: Menus and settings","If you forget the controls\nor want to change graphics,\nyou can press escape.","That'll be the menu that is\nalways accessible.","Use WASD to navigate\nand space to select.","\nThe rest is self-explanatory.");

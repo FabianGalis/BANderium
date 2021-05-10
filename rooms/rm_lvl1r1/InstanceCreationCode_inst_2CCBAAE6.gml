@@ -1,0 +1,1 @@
+ds_list_add(currenttext,"The red potion will restore four health units.");

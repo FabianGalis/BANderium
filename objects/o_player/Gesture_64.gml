@@ -1,0 +1,1 @@
+if(!global.pause and os_type==os_android)global.tappingtimer=10;
